@@ -379,10 +379,9 @@ nav > ul li a:active {
 }
 
 .appScreenshot {
-  width: auto;
+  max-width: 100%;
+  height: auto;
   max-height: 100%;
-//   border-radius: 20px;
-//   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
 }
 
 
