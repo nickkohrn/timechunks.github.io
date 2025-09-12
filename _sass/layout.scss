@@ -381,7 +381,25 @@ nav > ul li a:active {
 .appScreenshot {
   max-width: 100%;
   height: auto;
-  max-height: 80vh; // prevents vertical overflow
+  max-height: 80vh;
+}
+
+@media only screen and (max-width: 992px) {
+  .appScreenshot {
+    max-height: 60vh;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .appScreenshot {
+    max-height: 50vh;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .appScreenshot {
+    max-height: 40vh;
+  }
 }
 
 
