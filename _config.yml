@@ -39,7 +39,7 @@ features:
 
   - title: Accessible
     description: Built with accessibility in mind. Supports Dynamic Type, VoiceOver, Dark Mode, and more.
-    fontawesome_icon_name: accessible-icon
+    fontawesome_icon_name: accessible
 
   - title: Video Support
     description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
