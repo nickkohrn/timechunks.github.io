@@ -50,7 +50,7 @@ features:
     fontawesome_icon_name: lock
 
   - title: Multiplatform
-    description: Available for iPhone, iPad, and Mac (designed for iPad).
+    description: Available for iPhone, iPad, and Mac (with Apple Silicon).
     fontawesome_icon_name: mobile-screen
 
 # Theme Settings
