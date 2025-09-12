@@ -49,6 +49,10 @@ features:
     description: No analytics or tracking.
     fontawesome_icon_name: lock
 
+  - title: Multiplatform
+    description: Available for iPhone, iPad, and Mac (designed for iPad).
+    fontawesome_icon_name: mobile-screen
+
 # Theme Settings
 topbar_color: "#000000"
 topbar_transparency: 0.1
