@@ -38,7 +38,7 @@ features:
     fontawesome_icon_name: money-bill
 
   - title: Accessible
-    description: Built with accessibility in mind. Supports Dynamic Type, VoiceOver, Dark Mode, and more.
+    description: Supports Dynamic Type, VoiceOver, Dark Mode, and more.
     fontawesome_icon_name: universal-access
 
   - title: Private
