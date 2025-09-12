@@ -26,11 +26,11 @@ email_address: hello@timechunks.app
 linkedin_username:
 linkedin_company:
 facebook_username:
-instagram_username: ebaehr
-twitter_username: ebaehr
-github_username: emilbaehr
+instagram_username:
+twitter_username:
+github_username:
 youtube_username:
-mastodon_link: https://mastodon.social/@ebaehr
+mastodon_link:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
