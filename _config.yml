@@ -33,13 +33,17 @@ mastodon_link:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: One-Time Purchase
-    description: No subscriptions or in-app purchases.
-    fontawesome_icon_name: money-bill
+  - title: Simple
+    description: Get results quickly.
+    fontawesome_icon_name: wand-magic-sparkles
 
   - title: Accessible
     description: Supports Dynamic Type, VoiceOver, Dark Mode, and more.
     fontawesome_icon_name: universal-access
+
+  - title: One-Time Purchase
+    description: No subscriptions or in-app purchases.
+    fontawesome_icon_name: money-bill
 
   - title: Private
     description: No analytics or tracking.
