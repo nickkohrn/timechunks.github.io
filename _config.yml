@@ -38,7 +38,7 @@ features:
     fontawesome_icon_name: wand-magic-sparkles
 
   - title: Accessible
-    description: Supports Dynamic Type, VoiceOver, Dark Mode, and more.
+    description: Supports Larger Text, VoiceOver, Voice Control, Dark Interface, and more.
     fontawesome_icon_name: universal-access
 
   - title: One-Time Purchase
